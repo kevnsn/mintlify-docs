@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Dex Guide",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@getdex.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Homepage",
+    "url": "https://getdex.com/guide"
   },
   "tabs": [
     {
@@ -33,25 +33,25 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Knowledgebase",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://getdex.com/guide"
     },
     {
-      "name": "Community",
+      "name": "Dex API",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://getdex.com/guide/dex-api"
     },
     {
-      "name": "Blog",
+      "name": "Changelog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://getdex.com/guide/changelog"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "group": "Dex Core Functionality",
+      "pages": ["Dex Core Functionality", "What is Dex", "Getting Started"]
     },
     {
       "group": "Essentials",
