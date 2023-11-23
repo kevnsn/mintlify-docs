@@ -23,7 +23,7 @@
   ],
   "topbarCtaButton": {
     "name": "Homepage",
-    "url": "https://getdex.com/guide"
+    "url": "https://getdex.com/dex-core-functions"
   },
   "tabs": [
     {
@@ -50,8 +50,8 @@
   ],
   "navigation": [
     {
-      "group": "Dex Core Functionality",
-      "pages": ["Dex Core Functionality", "What is Dex", "Getting Started"]
+      "group": "Dex Core Features",
+      "pages": ["dex-core-functions/dex-core-functions", "What is Dex", "Getting Started"]
     },
     {
       "group": "Essentials",
